@@ -1,0 +1,10 @@
+fastapi
+motor
+pydantic
+certifi
+uvicorn
+gunicorn
+websockets
+wrapt
+python-dotenv
+pyjwt
